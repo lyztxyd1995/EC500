@@ -8,10 +8,10 @@ import io
 from google.cloud import vision
 from google.cloud.vision import types
 
-consumer_key = 'DFmJEyJHWEOsF6aJG2dR3nwNd'
-consumer_secret = '5ZO9zQz285nHzyC5sN1tT60Y9imbW66pqJHtARO4cA2ZJoHIet'
-access_token = '902865296595320832-Cu3uGmxAhpJ72Mk5YKus4hN8PDkbB6e'
-access_secret = 'E7i8WMJ9N85927H2cs3Iu4OQJ6zUSDGjJKISbiMfHe6We'
+consumer_key = '0cYsPeET4nnRBCfXeMOgpHOYT'
+consumer_secret = 'huJELoy0qRmWSUrNuE4oQFfscaB85dHwPN7LiWRMD32VsbPQtB'
+access_token = '920759555268792320-xW8gUS80dPR65NNwXOwpWPyPms9XOvZ'
+access_secret = 'K4KDDWfuQsGFgIR7Cc294qC3AABiZotJ2FnvwuWqcnOFT'
 GOOGLE_APPLICATION_CREDENTIALS="Around-809999446769.json"
 
 @classmethod
