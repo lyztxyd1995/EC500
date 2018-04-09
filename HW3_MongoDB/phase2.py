@@ -18,10 +18,10 @@ def twitter_mongo():
 	dictionary = {}
 
 	# Getting access information
-	consumer_key = "*"
-	consumer_secret = "*"
-	access_token = "*-ZtCaU3ofNCNZg3tDe21MOAPo7A2IeBe"
-	access_secret = "*"
+	consumer_key = ''
+	consumer_secret = ''
+	access_token = ''
+	access_secret = ''
 
 	dictionary['keys'] = [consumer_key, consumer_secret, access_token, access_secret]
 
